@@ -19,9 +19,6 @@ import {
 
 //import {makeStyles} from '@mui/styles';
 
-const myHelper = {
-  required:"Required",
-};
 
 const Error = ({children}) => <p style={{ color: "red" }}>{children}</p>;
 
